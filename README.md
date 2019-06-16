@@ -1,5 +1,5 @@
 # python-os
-collection of hackable python operating system components. All written, congured and extendable in python!
+collection of hackable python operating system components. All written, configurable and extendable in python!
 
 # Desktop Environments / Window Managers
 
