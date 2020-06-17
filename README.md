@@ -21,3 +21,7 @@ collection of hackable python operating system components. All written, configur
 
 * [__Ranger__](https://github.com/ranger/ranger) - ranger is a console file manager with VI key bindings. It provides a minimalistic and nice curses interface with a view on the directory hierarchy. It ships with rifle, a file launcher that is good at automatically finding out which program to use for what file type.
 
+# Utils
+
+* [__xkeysnail__](https://github.com/mooz/xkeysnail) - keyboard remapping tool for X environment written in Python. It's like xmodmap but allows more flexible remappings. Full python config and allows binding python function calls on key presses.
+
